@@ -5,7 +5,7 @@ The goal was to create a Friend Finder app  using Node and Express servers. The 
 
 # Heroku Deployment
 
-+ Link to Heroku: 
++ Link to Heroku (live deployment):  https://new-friend-finder-app.herokuapp.com/
 
 # Requirements
 
@@ -26,4 +26,4 @@ The goal was to create a Friend Finder app  using Node and Express servers. The 
 + ```HTML```  
 
 # Author
-..* Harun Farah
++ Harun Farah
