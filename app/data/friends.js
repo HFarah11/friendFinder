@@ -6,7 +6,7 @@ var friendsArray = [
     scores: [5, 1, 2, 3, 1, 2, 5, 1, 1, 1]
   },
   {
-    friendName: 'Liam',
+    friendName: 'Jackson',
     friendImg:
       'https://images.pexels.com/photos/555790/pexels-photo-555790.png?cs=srgb&dl=black-and-white-boy-casual-555790.jpg&fm=jpg',
     scores: [2, 5, 4, 1, 2, 3, 3, 2, 3, 3]
