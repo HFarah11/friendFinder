@@ -1,7 +1,7 @@
 # friendFinder
 
 
-The goal was to create a Friend Finder app  using Node and Express servers. The user enters the home page that leads to a survey. When the user submits the survey, they are matched with a "friend" that has the closest match to their personality.
+The goal was to create a Friend Finder app  using Node JS and Express JS servers. The user enters the home page that leads to a survey. When the user submits the survey, they are matched with a "friend" that has the closest match to their personality.
 
 # Heroku Deployment
 
